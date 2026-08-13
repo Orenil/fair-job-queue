@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.pgdata/
+*.log
+.env
+.DS_Store
+coverage/
+*.tsbuildinfo
